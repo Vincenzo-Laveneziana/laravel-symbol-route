@@ -14,14 +14,19 @@ html, body {
 
 .full-height2 {
   margin: 0 auto;
-  width: 1200px;
   height: 75vh;
+
+  p{
+  width: 500px; 
+  }
 }
 
 .flex-center {
   align-items: center;
   display: flex;
   justify-content: center;
+  
+  
 }
 
 .flex-center2 {

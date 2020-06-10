@@ -14,8 +14,11 @@ body {
 
 .full-height2 {
   margin: 0 auto;
-  width: 1200px;
   height: 75vh;
+}
+
+.full-height2 p {
+  width: 500px;
 }
 
 .flex-center {
